@@ -1,2 +1,2 @@
-# openBCI
+# OpenBCI
 Brain Computer Interface project
